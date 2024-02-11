@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import Logo from "../../../public/next.jpg"
+import Logo from "../../public/next.jpg"
 const Navbar = () => {
     return ( 
         <nav>
