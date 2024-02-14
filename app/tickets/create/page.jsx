@@ -4,7 +4,7 @@ const CreateTicket = () => {
     return ( 
         <main>
             <h2 className="text-center text-primary">
-                Add a New Ticket
+                Add a New Ticket tp this
                 <CreateForm />
             </h2>
         </main>
